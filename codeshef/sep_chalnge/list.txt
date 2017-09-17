@@ -1,0 +1,7 @@
+1. Little chef and sums
+2. Minimum good permutation
+3. Chef and pick digits
+4. Fill the matrix [Pending]
+5. Weasel does XoR on tree
+
+

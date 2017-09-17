@@ -1,0 +1,1 @@
+1. Segment tree {Range maximum} [O(log n)]

@@ -1,0 +1,4 @@
+1.Activity selection
+2.Egyptian numbers
+3.Job sequencing problem
+

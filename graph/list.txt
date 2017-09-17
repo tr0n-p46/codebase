@@ -1,0 +1,38 @@
+1.[undirected]Number of distinct walks of length 'n' from i to j using trace and adj. matrix multiplication[O(V^3)/O(V^2.8074)]
+2.Number of triangles in a directed/undirected graph. Naive method. [O(V^3)]
+3.Check if a graph is bi-partite
+4.Max flow using ford fulkerson and edmond karp
+5.Max flow using Dimic's algorithm faster than edmond karp [Pending]***
+6.BFS (adj list) [O(E+V)]
+7.DFS (adj list) [O(E+V)]
+8.Detect cycle in a directed graph using DFS [O(E+V)]
+9.Detect cycle in an undirected graph using Disjoint-set [O(Elog V)]
+10.Detect cycle in an undirected graph using DFS [O(E+V)]
+11.Path between two vertices in a graph using DFS [O(E+V)]
+12.Assign directions in an undirected graph such that it remains acyclic. [O(E+V)]
+13.Longest path in a directed acyclic graph. [O(E+V)]
+14.Find mother vertex or a vertex from which every other vertex is rechable. [O(E+V)]
+15.Transitive closure of a directed graph faster than floyd warshall. [O(V^2)]
+16.Maximal bipartite matching in an undirected graph using edmond karp. [O(VE^2)]
+17.Maximal bipartite matching using DFS simplified version. [O(V(E+V))]
+18.Topological sorting of a DAG using DFS. [O(E+V)]
+19.Iterative DFS. [O(E+V)]
+20.Iterative deepening DFS(IDDFS). [Check]***
+21.Find K-cores of an undirected graph. [O(E+V)]
+22.Topological sorting of a DAG using Kahn's algorithm. [O(E+V)]
+23.All topological sort's of a DAG using in-degree concept. [Pending]***
+24.Minimum spanning tree using Prims [O(Elog V)]
+25.Minimum spanning tree using kruskals. [O(Elog V) or O(Elog E)]
+26.Single source shortest path using Dijkstra's (-ve weight edges not allowed). [O(Elog V)]
+27.Single source shortest path using Bell-man ford (reports -ve weight cycle but considers -ve edges). [O(EV)]
+28.All-pair shortest path using Floyd-warshall. {Adj. matrix} [O(V^3)]
+29.All-pair shortest path using Johnson's algorithm. {Negative weights allowed} [O(V^2log V + VE)]
+30.Single source shortest path in linear time of a DAG. [O(E+V)]
+31. Maximal independent set in a binary tree(checked) also extended for n-ary trees not for graphs. [O()]
+
+
+ 
+
+
+
+

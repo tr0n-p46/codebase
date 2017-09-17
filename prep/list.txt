@@ -1,0 +1,9 @@
+1. General Aptitude
+2. C/C++
+3. Java
+4. Data structures and Algorithms
+5. OS
+6. Networking
+7. DBMS
+8. Puzzles
+

@@ -1,0 +1,10 @@
+1.Fibonnaci using DP and matrix in O(log n)
+2.Binnomial coefficient
+3.LCS
+4.Largest sum contiguos array
+5.ugly numbers
+6.Maximum size square submatrix with all 1's
+7.Longest Increasing subsequence
+8.Min cost path
+
+

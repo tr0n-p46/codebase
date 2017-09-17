@@ -1,0 +1,5 @@
+1.Even tree - Remove max edges to obtain max connected components with even vertices. [DFS] [O(E+V)]
+2.Kruskal's minimum spanning tree. [O(Elog V)]
+3.BFS shortest reach. [O(E+V)]
+4.Dijkstra shortest path. [O(Elog V)]
+5. Huarongdao

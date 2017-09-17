@@ -1,0 +1,19 @@
+1. Minimum absolute difference.
+2. Cakewalk
+3. Mark and toys
+4. Luck balance
+5. Grid challenge
+6. Priyank and toys
+7. Beautiful pairs
+8. Sherlock and the beast
+9. Largest permutation
+10. Greedy florist
+11. Permuting two arrays
+12. Jim and the orders
+13. Max min
+14. Cutting boards [Pending]
+15. Team formation [Pending]
+16. Maximum perimeter triangle
+
+
+
